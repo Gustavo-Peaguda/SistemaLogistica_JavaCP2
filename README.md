@@ -91,6 +91,8 @@ src/
 
 # Diagrama UML
 
+<img src="Diagrama_Sistema.drawio.png" alt="Diagrama de Classes UML" width="">
+
 ## Explicação do Diagrama
 
 O diagrama UML representa toda a estrutura do sistema e os relacionamentos entre as classes.
